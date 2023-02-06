@@ -1,2 +1,2 @@
-# shoperscart
+# shopperscart
 Created with CodeSandbox
